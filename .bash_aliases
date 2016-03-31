@@ -12,6 +12,8 @@ alias ....="cd ../../.."
 alias .....="cd ../../../.."
 
 alias cd-="cd -"
+alias li="cd ~/desktop/bridgeVM"
+alias dsk="cd ~/desktop"
 
 ### ls
 # Detect which `ls` flavor is in use
